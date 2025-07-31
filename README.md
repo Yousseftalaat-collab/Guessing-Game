@@ -35,7 +35,7 @@
 python guessing_game.py
 
 <h2>🔍 Example Output</h2>
-
+<ul>
 Hola! Are you interested to play the guessing game?
 Hi, Youssef, let's go to play guessing game?
 Pick a number between 1 and 10: 5
@@ -45,7 +45,7 @@ It's lower!
 Pick a number between 1 and 10: 7
 Nice, you got it!
 It took you 3 attempts!
-
+</ul>
 <h2> Technologies Used</h2> 
 
 <ul> 
@@ -53,4 +53,4 @@ It took you 3 attempts!
   <li>random — for generating the secret number</li>
   <li> CLI input/output</li>
 </ul>
-<h2>👨‍💻 Author</h2> <p>Made by Youssef Talaat</p> ```
+<h2>👨‍💻 Author</h2> <p>Made by Youssef Talaat</p>

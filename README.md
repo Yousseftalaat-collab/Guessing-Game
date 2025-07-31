@@ -36,15 +36,15 @@ python guessing_game.py
 
 <h2>🔍 Example Output</h2>
 <ul>
-Hola! Are you interested to play the guessing game?
-Hi, Youssef, let's go to play guessing game?
-Pick a number between 1 and 10: 5
-It's higher!
-Pick a number between 1 and 10: 8
-It's lower!
-Pick a number between 1 and 10: 7
-Nice, you got it!
-It took you 3 attempts!
+<li>Hola! Are you interested to play the guessing game?</li>
+<li>Hi, Youssef, let's go to play guessing game?</li>
+<li>Pick a number between 1 and 10: 5</li>
+<li>It's higher!</li>
+<li>Pick a number between 1 and 10: 8</li>
+<li>It's lower!</li>
+<li>Pick a number between 1 and 10: 7</li>
+<li>Nice, you got it!</li>
+<li>It took you 3 attempts!</li>
 </ul>
 <h2> Technologies Used</h2> 
 
